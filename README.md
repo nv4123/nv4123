@@ -1,16 +1,16 @@
-## Hi there 👋
+````markdown name=README.md
+# Hi, I’m @nv4213 👋
+
+👀 I’m interested in **AI/ML**, **Cybersecurity**, and **Full Stack Development**  
+🌱 Currently learning AI/ML  
+💞️ Looking to collaborate on projects in AI, web development, or security
+
+📫 Email: nidhi.verma3006@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/nidhi-verma-2b100a239)
+
+---
 
 <!--
-**nv4123/nv4123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Let's connect, collaborate, and create something amazing!
 -->
+````
