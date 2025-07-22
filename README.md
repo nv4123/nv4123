@@ -1,5 +1,5 @@
 
-# Hi, I’m @nv4213 👋
+# Hi, I’m Nidhi 👋
 
 👀 I’m interested in **AI/ML**, **Cybersecurity**, and **Full Stack Development**  
 🌱 Currently learning AI/ML  
