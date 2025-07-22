@@ -7,10 +7,3 @@
 
 📫 Email: nidhi.verma3006@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/nidhi-verma-2b100a239)
-
----
-
-<!--
-Let's connect, collaborate, and create something amazing!
--->
-````
